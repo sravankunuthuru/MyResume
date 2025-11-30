@@ -1,0 +1,79 @@
+/** @format */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.resume {
+  width: 800px;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.header {
+  border-left: 6px solid #3fa444;
+  padding-left: 15px;
+  margin-bottom: 25px;
+}
+
+.header h1 {
+  font-size: 28px;
+  margin: 0;
+  color: #007a3d;
+  font-weight: bold;
+}
+
+.header h2 {
+  font-size: 15px;
+  margin-top: 5px;
+  color: #3fa444;
+  font-weight: 600;
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #007a3d;
+  border-bottom: 2px solid #3fa444;
+  margin-top: 25px;
+  padding-bottom: 3px;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 15px;
+  gap: 10px 20px;
+  font-size: 14px;
+}
+
+.skills,
+.languages,
+.certificates {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+ul {
+  padding-left: 18px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+.dots span {
+  font-size: 18px;
+  color: #007a3d;
+}
+
+.project-title {
+  font-weight: bold;
+  margin-top: 10px;
+}
