@@ -11,7 +11,7 @@ function App() {
       </div>
 
       <div class='info-grid'>
-        <div>📞 9505093921</div>
+        <div> 9505093921</div>
         <div>📧 sravan.kunuthuru@gmail.com</div>
         <div>📍 Bangalore</div>
         <div>🔗 linkedin.com/in/kunuthurusravankumarachari</div>
